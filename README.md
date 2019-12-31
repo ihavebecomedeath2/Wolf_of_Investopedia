@@ -5,6 +5,6 @@
 Investopedia Bot that is able to generate consistent positive returns by exploiting a small timing discrepancy between Google Finance stock data and the Investopedia site.
 
 ### TO DO
-
+[![Run on Repl.it](https://repl.it/badge/github/ihavebecomedeath2/Wolf_of_Investopedia)](https://repl.it/github/ihavebecomedeath2/Wolf_of_Investopedia)
 
 Add Options trading
